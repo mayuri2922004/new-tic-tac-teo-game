@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Tic Tac Toe</title>
-  <link rel="stylesheet" href="/css/tic tac teo .css">
+  <link rel="stylesheet" href="/tic tac teo .css">
   
 </head>
 <body>
@@ -25,6 +25,7 @@
 <p id="status"></p>
 <button id="reset">Reset Game</button>
 
-<script src="/javascript/tic tac teo.js"></script>
+<script src="/tic tac teo.js"></script>
 </body>
 </html>
+
